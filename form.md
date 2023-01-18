@@ -6,7 +6,7 @@
 
 ## Step 1.1:
 
-* Address of account A: ``
+* Address of account A: insetadders
 * Address of account B: ``
 
 ## Step 2:
